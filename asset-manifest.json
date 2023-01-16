@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accord/static/css/main.3b579164.css",
+    "main.js": "/accord/static/js/main.39b0a947.js",
+    "index.html": "/accord/index.html",
+    "main.3b579164.css.map": "/accord/static/css/main.3b579164.css.map",
+    "main.39b0a947.js.map": "/accord/static/js/main.39b0a947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b579164.css",
+    "static/js/main.39b0a947.js"
+  ]
+}
